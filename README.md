@@ -22,7 +22,7 @@
 
 ### Screenshots
 
-https://github.com/p13gian1/FinalReport/blob/master/working%20on%20mario%20sprite.JPG
+[](https://github.com/p13gian1/FinalReport/blob/master/working%20on%20mario%20sprite.JPG)
 
 
 
