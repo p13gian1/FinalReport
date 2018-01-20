@@ -26,6 +26,10 @@
 
 ![Super Mario sprite2](https://github.com/p13gian1/FinalReport/blob/master/working%20on%20marios%20jpg%202.JPG)
 
+![Tiled](https://github.com/p13gian1/FinalReport/blob/master/Sketch.png)
+
+![Sublime](https://github.com/p13gian1/FinalReport/blob/master/Sketch2.png)
+
 
 
 
