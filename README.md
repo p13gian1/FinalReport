@@ -6,6 +6,8 @@
 
 ### Εισαγωγή
 
+# Το θέμα της εργασίας ήταν η δημιουργία ενός παιχνιδιού 2D βασισμένου στο κλασικό παιχνίδι Super Mario
+
 ### Σύνοψη
 
 ### Επιλογή Εργαλείων
@@ -19,6 +21,14 @@
 ### Screenshots
 
 ### Συμπεράσματα
+
+### Σύνδεσμοι
+
+# [Αποθετήριο ΜΜ](https://github.com/p13gian1/mm)
+
+# [Αποθετήριο κώδικα Super Mario](https://github.com/p13gian1/Super-Mario)
+
+# [Αποθετήριο παιχνιδιού Super Mario](https://p13gian1.github.io/Super-Mario)
 
 
 
